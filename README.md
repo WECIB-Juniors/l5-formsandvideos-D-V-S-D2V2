@@ -15,7 +15,7 @@ Requirements
     - A visible heading and short description.
     - At least these inputs: a text input (name), an email input, a select or radio group (choice), a checkbox, a textarea, and a submit button.
     - Use `label` elements correctly linked to inputs (for accessibility).
-    - Set the form `method` to either `GET` or `POST` and set `action` to a test endpoint (e.g., `https://httpbin.org/post` for POST or `https://httpbin.org/get` for GET) or `#` for local testing. Include a one-line comment explaining your choice.
+    - Set the form `method` to either `GET` or `POST` and set `action` to a test endpoint (e.g., `https://httpbin.org/post` for POST or `https://httpbin.org/get` for GET) or `#` for local testing. Include a one-line comment explaining your choice. //// NEEEED TO DO THISSSSSSSSSSSSSSSS
     - Use HTML5 validation attributes (`required`, `pattern`, `minlength`, etc.) on at least two fields.
 - Embed a video:
     - Use the HTML5 `<video>` element with `controls`.
